@@ -1,0 +1,17 @@
+{
+  "name": "newsnairabot",
+  "version": "1.0.0",
+  "description": "newsnaira bot for scraping",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cable",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "node-fetch": "^2.6.0",
+    "request": "^2.88.2",
+    "puppeteer": "^3.0.2"
+  }
+}
