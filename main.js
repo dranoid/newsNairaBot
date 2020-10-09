@@ -1,5 +1,5 @@
 const puppeteer = require("puppeteer");
-const login = require("./details");
+const login = require("./details"); //create a new details.js in the project's root directory if you clone this repo
 const myLink = require("./link");
 const comment = require("./comment.js");
 
